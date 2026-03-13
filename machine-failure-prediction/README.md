@@ -151,11 +151,12 @@ Jupyter Notebook
 
 ---
 
-# Project Structure
+## Project Structure
 
-machine-failure-prediction
+```
+machine-failure-prediction/
 │
-├── images
+├── images/
 │   ├── air_temperature_distribution.png
 │   ├── process_temperature_distribution.png
 │   ├── machine_failure_distribution.png
@@ -164,6 +165,7 @@ machine-failure-prediction
 │
 ├── machine_failure_prediction.ipynb
 └── README.md
+```
 
 
 ---
