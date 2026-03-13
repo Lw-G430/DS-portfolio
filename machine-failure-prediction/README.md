@@ -113,6 +113,16 @@ Mean CV Score
 
 The model achieves approximately **97.8% accuracy**.
 
+### ROC Curve
+
+The ROC curve evaluates the classification performance of the Random Forest model across different decision thresholds.
+
+![ROC Curve](images/roc_curve.png)
+
+The ROC curve illustrates the trade-off between the true positive rate and false positive rate across different thresholds. 
+
+The Random Forest model achieves an AUC score of **0.968**, indicating excellent discrimination between normal machine operation and failure conditions. This suggests that the model is highly effective at identifying failure patterns based on sensor measurements.
+
 ---
 
 # Feature Importance
