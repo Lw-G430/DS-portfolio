@@ -164,14 +164,15 @@ Jupyter Notebook
 ## Project Structure
 
 ```
-machine-failure-prediction/
+machine-failure-prediction
 │
-├── images/
+├── images
 │   ├── air_temperature_distribution.png
 │   ├── process_temperature_distribution.png
 │   ├── machine_failure_distribution.png
 │   ├── correlation_matrix.png
-│   └── feature_importance.png
+│   ├── feature_importance.png
+│   └── roc_curve.png
 │
 ├── machine_failure_prediction.ipynb
 └── README.md
