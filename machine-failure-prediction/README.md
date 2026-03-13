@@ -8,7 +8,7 @@ The goal is to identify patterns in machine operating conditions that indicate p
 
 # Dataset
 
-AI4I 2020 Predictive Maintenance Dataset (UCI)
+AI4I 2020 Predictive Maintenance Dataset [Dataset]. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5HS5C.
 
 The dataset contains sensor measurements from industrial machines.
 
