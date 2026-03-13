@@ -1,4 +1,4 @@
-# Lewei Gao – Data Science Portfolio
+# Lewei Gao – Data Analysis Portfolio
 
 Statistics student at McMaster University interested in data science, machine learning, and statistical modeling.
 
