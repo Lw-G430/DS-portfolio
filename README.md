@@ -2,7 +2,7 @@
 
 Statistics student at McMaster University interested in data science, machine learning, and statistical modeling.
 
-This repository serves as a portfolio of my data science projects using **Python** and **R**.
+This repository serves as a portfolio of my data analysis and machine learning projects using **Python** and **R**.
 
 ---
 
@@ -22,6 +22,7 @@ This repository serves as a portfolio of my data science projects using **Python
 ### Tools
 - Python
 - R
+- Git
 - GitHub
 - Jupyter Notebook
 - RStudio
@@ -30,69 +31,46 @@ This repository serves as a portfolio of my data science projects using **Python
 
 # Projects
 
-## Customer Churn Prediction (Python)
-
-Repository: [customer-churn-analysis](https://github.com/Lw-G430/customer-churn-analysis)
+## Customer Churn Prediction
+Repository:  
+https://github.com/Lw-G430/customer-churn-analysis
 
 Machine learning model predicting telecom customer churn.
 
 Tech:
 - Python
 - Pandas
-- Scikit-Learn
-- XGBoost
+- Scikit-learn
 
 Topics:
 - Feature engineering
-- Classification
+- Classification modeling
 - Model evaluation
 
 ---
 
-## Housing Price Prediction (Python)
-Regression model predicting housing prices.
+## Machine Failure Prediction
+Repository:  
+(machine-failure-prediction repo)
+
+Predictive maintenance model identifying potential machine failures using sensor data.
 
 Tech:
 - Python
-- Scikit-Learn
 - Pandas
+- Scikit-learn
+- Random Forest
 
 Topics:
-- Regression modeling
-- Feature selection
-- Model comparison
-
----
-
-## A/B Testing Analysis (R)
-Statistical experiment analyzing product changes.
-
-Tech:
-- R
-- tidyverse
-- ggplot2
-
-Topics:
-- Hypothesis testing
-- Confidence intervals
-- Experiment design
-
----
-
-## Time Series Forecasting (R)
-Forecasting demand using time series models.
-
-Tech:
-- R
-- forecast
-- ggplot2
-
-Topics:
-- ARIMA
-- Seasonality
-- Forecasting
+- Exploratory Data Analysis (EDA)
+- Logistic Regression baseline
+- Random Forest model
+- Cross-validation
+- Feature importance analysis
 
 ---
 
 # Contact
 
+GitHub:  
+https://github.com/Lw-G430
